@@ -9,8 +9,3 @@ Your contributions help make the tool smarter, faster, and more useful.
 
 ### 1. Fork the Repository
 Click the `Fork` button at the top-right to create a copy of this repository.
-
-### 2. Clone Your Fork
-```bash
-git clone https://github.com/DevWaqarAhmad/Resume-Screening-Bot.git
-cd Resume-Screening-Bot

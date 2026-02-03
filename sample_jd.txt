@@ -1,1 +1,58 @@
 Looking for a Python developer with experience in machine learning, data analysis, and problem-solving.
+Job Description – Full Stack Developer
+
+We are looking for a motivated Full Stack Developer to design, develop, and maintain scalable web applications. The ideal candidate should have hands-on experience with both frontend and backend technologies and a strong understanding of web development concepts.
+
+Roles & Responsibilities
+
+Develop responsive and user-friendly web applications
+
+Build and maintain backend services and RESTful APIs
+
+Integrate frontend applications with backend systems
+
+Work with databases to store and retrieve application data
+
+Write clean, efficient, and reusable code
+
+Debug, test, and optimize application performance
+
+Collaborate with team members using version control tools
+
+Required Technical Skills
+
+Strong knowledge of Python
+
+Experience with Flask or Django
+
+Frontend skills: HTML, CSS, JavaScript, React
+
+Database knowledge: MySQL, PostgreSQL, MongoDB
+
+API development using REST APIs
+
+Version control using Git and GitHub
+
+Preferred Skills
+
+Basic knowledge of AWS or cloud platforms
+
+Familiarity with Docker
+
+Understanding of authentication and authorization
+
+Exposure to software development best practices
+
+Education & Experience
+
+Bachelor’s degree in Computer Science, IT, or related field
+
+0–3 years of experience in full stack development (Freshers can apply)
+
+Soft Skills
+
+Problem-solving mindset
+
+Good communication skills
+
+Ability to work independently and in a team
