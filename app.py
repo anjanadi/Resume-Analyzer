@@ -161,7 +161,7 @@ def load_ai_system():
     # -----------------------------
     # REMOVE RARE CATEGORIES
     # -----------------------------
-    df = df.groupby("category").filter(lambda x: len(x) >= 10)
+    df = df.groupby("category").filter(lambda x: len(x) >= 15)
 
     # -----------------------------
     # CLEAN TEXT
