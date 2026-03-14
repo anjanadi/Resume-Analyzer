@@ -61,7 +61,7 @@ category_mapping = {
 df["category"] = df["category"].replace(category_mapping)
 
 # Remove rare categories (same as app.py)
-df = df.groupby("category").filter(lambda x: len(x) >= 10)
+df = df.groupby("category").filter(lambda x: len(x) >= 40)
 
 # -----------------------------
 # TEXT CLEANING
