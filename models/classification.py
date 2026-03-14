@@ -12,7 +12,7 @@ def train_classifier(X, y):
         stratify=y   # IMPORTANT
     )
 
-    model = LinearSVC(class_weight="balanced")
+    model = LinearSVC(class_weight="balanced", max_iter=1000)
 
     model.fit(X_train, y_train)
 
